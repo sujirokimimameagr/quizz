@@ -55,8 +55,7 @@ export const perguntas = [
             {
                 texto: "Tento gritar por ajuda.",
                 afirmacao: [
-                    "Sinto que preciso tentar chamar a atenção de alguém.",
-                    "A esperança de ser ouvido me dá coragem."
+                    "juninho estava perto abriu a porta we voce ja sabe o final"
                 ],
                 proxima: 6,
             },
