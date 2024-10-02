@@ -68,8 +68,7 @@ export const perguntas = [
             {
                 texto: "Procuro uma saída imediata.",
                 afirmacao: [
-                    "Estou decidido a escapar antes que o Juninho volte.",
-                    "A adrenalina me dá forças para agir rapidamente."
+                    "juninho deixou a porta aberta entao voce fugiu com facilidade."
                 ],
                 proxima: 7,
             },
