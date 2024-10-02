@@ -74,7 +74,7 @@ export const perguntas = [
                 proxima: 7,
             },
             {
-                texto: "Espere e me escondo.",
+                texto: "Espero e me escondo.",
                 afirmacao: [
                     "Prefiro ficar em silêncio e observar o que está acontecendo.",
                     "Quero estar preparado para o que vier a seguir."
